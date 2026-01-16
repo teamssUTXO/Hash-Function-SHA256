@@ -2,6 +2,8 @@
 
 A lightweight C implementation of the SHA-256 cryptographic hash function, following the NIST FIPS 180-4 standard. This command-line tool allows you to generate SHA-256 hashes from text input or files.
 
+Warning: This SHA‑256 implementation is not optimized. It is intended solely as a direct, mathematical demonstration of the hashing algorithm.
+
 ### About SHA-256
 
 SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that generates a fixed-size 256-bit (32-byte) hash value from any input data. It's widely used in digital signatures, blockchain technology, and data integrity verification.
