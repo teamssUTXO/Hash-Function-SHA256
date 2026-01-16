@@ -19,7 +19,7 @@ SHA-256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that ge
 
 ```
 # Clone the repository
-git clone https://github.com/fardellatimothe/Hash-Function-SHA256.git
+git clone https://github.com/teamssUTXO/Hash-Function-SHA256.git
 cd Hash-Function-SHA256
 
 # Compile the project
